@@ -1,4 +1,4 @@
-# StudiKasus-Modul-3-PPL
+key# StudiKasus-Modul-3-PPL
 REQUIREMENT MODUL 3
 Assalamualaiukum 
 Halo teman-teman, selamat datang di modul 3 dari praktikum Perancangan Perangkat Lunak EAD laboratory 2025, kali ini teman-teman akan melakukan automated testing pada aplikasi laravel yang sudah dibuat. Hal pertama yang perlu dilakukan ketika ingin menjalankan project ini, pastikan teman-teman memiliki requirement sebagai berikut :
